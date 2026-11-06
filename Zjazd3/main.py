@@ -13,8 +13,7 @@ Przygotowanie środowiska (Python 3.10 lub nowszy):
     2. .venv\\Scripts\\python.exe -m pip install -r requirements.txt
     3. .venv\\Scripts\\python.exe main.py
 
-Model jest edukacyjny i nie steruje prawdziwą baterią. Pełny opis zawierają
-README.md i DOKUMENTACJA_KODU.md.
+Model jest edukacyjny i nie steruje prawdziwą baterią.
 """
 
 from __future__ import annotations
