@@ -1,0 +1,4 @@
+scikit-fuzzy>=0.5.0,<0.6.0
+numpy>=1.25,<3.0
+scipy>=1.15,<2.0
+networkx>=3.0,<4.0
